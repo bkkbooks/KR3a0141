@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3a0141_001.yaml, hash: 'sha256:27fd1da4f87f65eb2aeb518ce8922532c4c61c99ebab09aa96528041791d1cc1'}
+  - {seq: 1, filename: KR3a0141_001.yaml, hash: 'sha256:be0adb6b6389750e50485c965483048a90bba00c59bc597bac803841c3136331'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3a0141_001.markers.yaml, hash: 'sha256:3a8c7b3f79ac06828bd51621ffbd084f3a9dafa0c180807b5e0052930fd84024'}
+  - {seq: 1, role: markers, filename: assets/KR3a0141_001.markers.yaml, hash: 'sha256:f13b2006f87ce8f99252b106cd091a46757a1c0b3de8a46e519231e6b7f23edc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 阮子政論
   type: section
   level: 1
-hash: sha256:ff1fdd10e0575f35b16159c93bfb105d78782db573ca568e9b129a60b2470ec6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:689f09881bdf13ee3f0090d97fd30610988294e84b8906e4769bffa4c41ad30d
