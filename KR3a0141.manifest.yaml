@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3a0141/v1
 canonical_location: https://kanripo.org/bkk/KR3a0141/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 阮子政論一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3a0141_001.yaml, hash: 'sha256:be0adb6b6389750e50485c965483048a90bba00c59bc597bac803841c3136331'}
+  - {seq: 1, filename: KR3a0141_001.yaml, hash: 'sha256:27fd1da4f87f65eb2aeb518ce8922532c4c61c99ebab09aa96528041791d1cc1'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3a0141_001.markers.yaml, hash: 'sha256:f13b2006f87ce8f99252b106cd091a46757a1c0b3de8a46e519231e6b7f23edc'}
+  - {seq: 1, role: markers, filename: assets/KR3a0141_001.markers.yaml, hash: 'sha256:aca4e5ea38d2379c0388977da7984791f3874d636d3d042f37782f6b4b58ce05'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 阮子政論
   type: section
   level: 1
-hash: sha256:689f09881bdf13ee3f0090d97fd30610988294e84b8906e4769bffa4c41ad30d
+hash: sha256:61d91e5992a6b593792f3f25bbb2ca118cc567090eb0d656dcc314b92594c3b3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
